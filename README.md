@@ -1,3 +1,5 @@
+### DOWNLOAD THE LATEST RELEASE [HERE](https://github.com/Majloww/3D-Game-in-an-Environment-inspired-by-a-Real-Castle/releases/tag/v1.5)
+
 # TVORBA 3D HRY V PROSTREDÍ INŠPIROVANOM SKUTOČNÝM HRADOM
 ## BAKALÁRSKA PRÁCA
 
